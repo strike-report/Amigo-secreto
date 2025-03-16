@@ -40,3 +40,14 @@ Para ejecutar este proyecto localmente, no necesitas instalaciones adicionales. 
 ## 📂 Estructura del Proyecto
 
 El proyecto está organizado de la siguiente manera:
+mi-proyecto/
+│
+├── index.html # Archivo principal con la estructura HTML
+├── style.css # Hoja de estilos CSS
+├── app.js # Archivo JavaScript con la lógica del proyecto
+├── assets/ # Carpeta para imágenes y otros recursos
+│ ├── amigo-secreto.png
+│ └── play_circle_outline.png
+└── README.md # Documentación del proyecto
+
+
